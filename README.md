@@ -8,4 +8,8 @@ This system allows users to upload Jenkins logs and receive basic analysis resul
 Future stages will add **AI-powered log analysis** and **Rally ticket automation**.
 
 ## Architecture (Stage 1)
+ai-log-chatbot/
+├── backend/   # FastAPI app
+├── frontend/  # React app
+└── docker-compose.yml
 
